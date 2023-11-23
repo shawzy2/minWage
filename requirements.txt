@@ -1,5 +1,6 @@
 beautifulsoup4
-notebook
+matplotlib
+notebook==6.5.2
 numpy
 pandas
 requests
